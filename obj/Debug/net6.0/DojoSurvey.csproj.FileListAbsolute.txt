@@ -19,3 +19,4 @@
 /Users/jamey134/Desktop/Coding Dojo/C#/ASP.NetCore/DojoSurvey/obj/Debug/net6.0/DojoSurvey.pdb
 /Users/jamey134/Desktop/Coding Dojo/C#/ASP.NetCore/DojoSurvey/obj/Debug/net6.0/DojoSurvey.genruntimeconfig.cache
 /Users/jamey134/Desktop/Coding Dojo/C#/ASP.NetCore/DojoSurvey/obj/Debug/net6.0/ref/DojoSurvey.dll
+/Users/jamey134/Desktop/Coding Dojo/C#/ASP.NetCore/DojoSurvey/bin/Debug/net6.0/DojoSurvey.staticwebassets.runtime.json
