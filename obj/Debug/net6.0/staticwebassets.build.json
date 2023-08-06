@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0K84tBt+Y0wufQKszgc+B/vJqfDEaiFenXeUz9YE7M8=",
+  "Hash": "9CbZ2EsFva81V5coBx5Y7pAsK68r6ntdsCKmM+HSAyU=",
   "Source": "DojoSurvey",
   "BasePath": "_content/DojoSurvey",
   "Mode": "Default",
@@ -15,23 +15,5 @@
       "Pattern": "**"
     }
   ],
-  "Assets": [
-    {
-      "Identity": "/Users/jamey134/Desktop/Coding Dojo/C#/ASP.NetCore/DojoSurvey/wwwroot/css.cs",
-      "SourceId": "DojoSurvey",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/jamey134/Desktop/Coding Dojo/C#/ASP.NetCore/DojoSurvey/wwwroot/",
-      "BasePath": "_content/DojoSurvey",
-      "RelativePath": "css.cs",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css.cs"
-    }
-  ]
+  "Assets": []
 }
