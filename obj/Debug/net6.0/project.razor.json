@@ -18374,8 +18374,13 @@
   "RootNamespace": "DojoSurvey",
   "Documents": [
     {
-      "FilePath": "/Users/jamey134/Desktop/Coding Dojo/C#/ASP.NetCore/DojoSurvey/Views/Home/index.cshtml",
-      "TargetPath": "Views\\Home\\index.cshtml",
+      "FilePath": "/Users/jamey134/Desktop/Coding Dojo/C#/ASP.NetCore/DojoSurvey/Views/Survey/display.cshtml",
+      "TargetPath": "Views\\Survey\\display.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jamey134/Desktop/Coding Dojo/C#/ASP.NetCore/DojoSurvey/Views/Survey/index.cshtml",
+      "TargetPath": "Views\\Survey\\index.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/jamey134/Desktop/Coding Dojo/C#/ASP.NetCore/DojoSurvey
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/jamey134/Desktop/Coding Dojo/C\#/ASP.NetCore/DojoSurvey/Views/Home/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9pbmRleC5jc2h0bWw=
+[/Users/jamey134/Desktop/Coding Dojo/C\#/ASP.NetCore/DojoSurvey/Views/Survey/display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VydmV5L2Rpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamey134/Desktop/Coding Dojo/C\#/ASP.NetCore/DojoSurvey/Views/Survey/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VydmV5L2luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
